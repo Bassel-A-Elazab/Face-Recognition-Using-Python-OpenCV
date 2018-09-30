@@ -8,8 +8,8 @@
   * FinalResult_Recognition <br>
     Load file "yml" and using Local Binary Patterns Histograms (LBPH) Face Recognizer To recognize the face .<br>
 # Requirement 
-  Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) here <br>
-  Install OpenCV from [here](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) here <br>
+  Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
+  Install OpenCV from [here](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) <br>
   Install Numpy
   
  # References
