@@ -15,6 +15,8 @@
  # References
   http://eyalarubas.com/face-detection-and-recognition.html <br>
   https://github.com/informramiz/opencv-face-recognition-python <br>
-  
+ 
+ # For Contact
+ bassel.alazab@gmail.com
  
   
