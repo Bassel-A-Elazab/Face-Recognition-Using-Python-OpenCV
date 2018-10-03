@@ -10,7 +10,7 @@
 # Requirement 
   Install Python 2.7 from [here](https://www.python.org/download/releases/2.7/) <br>
   Install OpenCV from [here](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) <br>
-  Install Numpy
+  Install Numpy from [here](https://pypi.org/project/numpy/)
   
  # References
   http://eyalarubas.com/face-detection-and-recognition.html <br>
